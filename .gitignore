@@ -1,6 +1,7 @@
 
 ###> symfony/framework-bundle ###
 .env
+.idea/
 /public/bundles/
 /var/
 /vendor/
@@ -11,4 +12,3 @@
 ###< symfony/web-server-bundle ###
 
 
-.idea/*
